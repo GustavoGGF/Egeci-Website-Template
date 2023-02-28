@@ -1,6 +1,6 @@
 # Egeci-Website-Template
 
-Template de um site para ser ussado para curriculum | Template of a site to be used for curriculum 
+Template de um site que pode ser ussado para curriculum | Template of a site that can be used for a resume 
 
 ![unknown_2023 02 28-15 31](https://user-images.githubusercontent.com/102559935/221948274-13a1ea3a-b8f6-477b-a254-1539bc4144fa.png)
 ![unknown_2023 02 28-15 31](https://user-images.githubusercontent.com/102559935/221948284-a488b307-d74e-4fd2-90fc-d992f5f2e0f0.gif)
